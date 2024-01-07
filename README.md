@@ -1,2 +1,5 @@
 # C-Training-Codes
-This code is published by Luke William.
+
+## Author
+- Luke William ([GitHub Profile](https://github.com/your-github-username))
+
