@@ -1,5 +1,5 @@
 # C-Training-Codes
 
 ## Author
-- Luke William ([GitHub Profile](https://github.com/your-github-username))
+- Luke William (https://github.com/sanlinntun)
 
